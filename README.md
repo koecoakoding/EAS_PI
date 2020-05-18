@@ -14,4 +14,4 @@
 Contoh fitur beserta Input dan Outputnya 
 ada di dalam dokumentasi
 
-EAS_PI/Dokumentasi
+EAS_PI/Dokumentasi/
