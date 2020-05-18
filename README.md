@@ -10,3 +10,6 @@
 4. pilih tombol rekap untuk melihat apa saja yang sudah diberikan
 
 ```
+
+Contoh fitur beserta Input dan Outputnya 
+ada di dalam dokumentasi
