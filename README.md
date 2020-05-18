@@ -15,3 +15,6 @@ Contoh fitur beserta Input dan Outputnya
 ada di dalam dokumentasi
 
 EAS_PI/Dokumentasi/
+
+![2](https://user-images.githubusercontent.com/55182321/82179849-7d0d4b00-9909-11ea-913d-212b3c15259b.png)
+
